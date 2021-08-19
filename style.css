@@ -1,0 +1,51 @@
+.heading{
+    width:100%;
+    margin:0;
+    font-size: 20px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover; 
+}
+.volume{
+    float: right;
+
+}
+.volume_img{
+    width: 250px;
+    border-radius: 120px;
+}
+#volume{
+    font-size: large;
+}
+.speed{
+    float: left;
+
+}
+.speed_img{
+    width: 250px;
+    border-radius: 120px;
+}
+#speed{
+    font-size: large;
+}
+canvas{
+    border: 5px solid grey ;
+
+    border-radius: 20px;
+
+}
+.copyright_footer{
+    position: fixed; 
+    width: 100%;
+    bottom: 0;
+    background-color: hotpink;
+    font-size: 15px;
+    color: black;
+    line-height: 20px;
+    font-family: 'Benne', serif;
+    padding-top: 8px;
+}
